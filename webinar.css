@@ -1,15 +1,23 @@
 .ustImage {
-	position: relative; left: 0px; right: 0px;
+  position: relative;
+  left: 0px;
+  right: 0px;
 }
 
 .ustKayitOl {
-	position: absolute; left: 120px; top: 430px;
+  position: absolute;
+  left: 120px;
+  top: 430px;
 }
 
 .altImage {
-	position: relative; left: 0px; right: 0px;
-}
-.altKayitOl {
-	position: absolute; left: 330px; top: 200px;
+  position: relative;
+  left: 0px;
+  right: 0px;
 }
 
+.altKayitOl {
+  position: absolute;
+  left: 330px;
+  top: 200px;
+}
