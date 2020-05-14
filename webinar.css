@@ -9,25 +9,25 @@ body {
 }
 
 
-.ustImage {
+#ustImage {
   position: relative !important;
   left: 0px !important;
   right: 0px !important;
 }
 
-.ustKayitOl {
+#ustKayitOl {
   position: absolute !important;
   left: 120px !important;
   top: 430px !important;
 }
 
-.altImage {
+#altImage {
   position: relative !important;
   left: 0px !important;
   right: 0px !important;
 }
 
-.altKayitOl {
+#altKayitOl {
   position: absolute !important;
   left: 330px !important;
   top: 200px !important;
