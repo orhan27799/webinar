@@ -1,1 +1,51 @@
-body{width:100%!important;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;padding:0;font-family:sans-serif}.ustImage{position:relative!important;left:0!important;right:0!important}.ustKayitOl{position:absolute!important;left:120px!important;top:430px!important}.altImage{position:relative!important;left:0!important;right:0!important}.altKayitOl{position:absolute!important;left:330px!important;top:200px!important}
+body {
+    width: 100% !important;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.ustImage {
+    position: relative !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+.ustKayitOl {
+    position: absolute !important;
+    left: 120px !important;
+    top: 430px !important;
+}
+.altImage {
+    position: relative !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+.altKayitOl {
+    position: absolute !important;
+    left: 330px !important;
+    top: 200px !important;
+}
+
+
+
+#ustImage {
+    position: relative !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+#ustKayitOl {
+    position: absolute !important;
+    left: 120px !important;
+    top: 430px !important;
+}
+#altImage {
+    position: relative !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+#altKayitOl {
+    position: absolute !important;
+    left: 330px !important;
+    top: 200px !important;
+}
